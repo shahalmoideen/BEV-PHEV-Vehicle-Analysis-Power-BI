@@ -95,4 +95,5 @@ Data Visualization & Storytelling
 Dashboard Design in Power BI
 
 📷 Dashboard Preview
+https://github.com/shahalmoideen/BEV-PHEV-Vehicle-Analysis-Power-BI/blob/main/PHEV%20VEHICLES.png
 
