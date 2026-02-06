@@ -1,4 +1,5 @@
 🔋 BEV & PHEV Vehicle Analysis | Power BI
+
 📌 Project Overview
 
 This project focuses on analyzing Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) to understand adoption trends, regional distribution, manufacturer performance, and policy eligibility insights.
@@ -96,4 +97,5 @@ Dashboard Design in Power BI
 
 📷 Dashboard Preview
 https://github.com/shahalmoideen/BEV-PHEV-Vehicle-Analysis-Power-BI/blob/main/PHEV%20VEHICLES.png
+https://github.com/shahalmoideen/BEV-PHEV-Vehicle-Analysis-Power-BI/blob/main/BEV%20%20VEHICLES.png
 
